@@ -35,3 +35,5 @@ CREATE TABLE ProductReporting (
     ProductName VARCHAR(50) NOT NULL,
     Orders VARCHAR(100) NOT NULL
 ) ENGINE=CSV;
+
+123
